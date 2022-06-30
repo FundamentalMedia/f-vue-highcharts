@@ -1,7 +1,7 @@
 {
-  "name": "vue2-highcharts",
+  "name": "@fundamentalmedia/vue2-highcharts",
   "description": "vue-highcharts",
-  "version": "1.2.5",
+  "version": "1.3.0",
   "author": "superman <supermanchc@gmail.com>",
   "license": "MIT",
   "private": false,
@@ -15,7 +15,7 @@
     "release": "npm publish"
   },
   "peerDependencies": {
-    "highcharts": "^6.0.3",
+    "highcharts": "^7.0.3",
     "vue": "^2.1.0"
   },
   "files": [

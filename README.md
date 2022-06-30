@@ -1,4 +1,7 @@
-[![Travis](https://img.shields.io/travis/superman66/vue-highcharts.svg)](https://travis-ci.org/superman66/vue-highcharts) [![npm](https://img.shields.io/npm/v/vue2-highcharts.svg?style=plastic)](https://www.npmjs.com/package/vue2-highcharts) [![npm](https://img.shields.io/npm/dt/vue2-highcharts.svg?style=plastic)](https://www.npmjs.com/package/vue2-highcharts) [![npm](https://img.shields.io/npm/l/vue2-highcharts.svg)](https://www.npmjs.com/package/vue2-highcharts)
+This project was forked due to an out of date Highcharts version that needed an update.
+
+
+
 # vue-highcharts
 
 > The component of Vue 2.0 for highcharts
